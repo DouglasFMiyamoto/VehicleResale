@@ -1,0 +1,15 @@
+C:\Pos\revenda\src\InventoryService\InventoryService.Adapters\bin\Debug\net8.0\InventoryService.Adapters.deps.json
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\bin\Debug\net8.0\InventoryService.Adapters.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\bin\Debug\net8.0\InventoryService.Adapters.pdb
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\bin\Debug\net8.0\InventoryService.Core.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\bin\Debug\net8.0\InventoryService.Core.pdb
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.csproj.AssemblyReference.cache
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.AssemblyInfoInputs.cache
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.AssemblyInfo.cs
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\Inventor.349F01BC.Up2Date
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\refint\InventoryService.Adapters.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\InventoryService.Adapters.pdb
+C:\Pos\revenda\src\InventoryService\InventoryService.Adapters\obj\Debug\net8.0\ref\InventoryService.Adapters.dll

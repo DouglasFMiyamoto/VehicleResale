@@ -1,0 +1,15 @@
+C:\Pos\revenda\src\Orchestrator\Orchestrator.Adapters\bin\Debug\net8.0\Orchestrator.Adapters.deps.json
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\bin\Debug\net8.0\Orchestrator.Adapters.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\bin\Debug\net8.0\Orchestrator.Adapters.pdb
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\bin\Debug\net8.0\Orchestrator.Core.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\bin\Debug\net8.0\Orchestrator.Core.pdb
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.csproj.AssemblyReference.cache
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.AssemblyInfoInputs.cache
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.AssemblyInfo.cs
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestr.4F29E314.Up2Date
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\refint\Orchestrator.Adapters.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\Orchestrator.Adapters.pdb
+C:\Pos\revenda\src\Orchestrator\Orchestrator.Adapters\obj\Debug\net8.0\ref\Orchestrator.Adapters.dll

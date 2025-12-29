@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2sggExf08c=",
+  "success": true,
+  "projectFilePath": "C:\\pos\\revenda\\src\\Orchestrator\\Orchestrator.Api\\Orchestrator.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\awssdk.core\\4.0.3.6\\awssdk.core.4.0.3.6.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.10.4\\awssdk.dynamodbv2.4.0.10.4.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\fastendpoints\\7.1.1\\fastendpoints.7.1.1.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\fastendpoints.attributes\\7.1.1\\fastendpoints.attributes.7.1.1.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\fastendpoints.messaging.core\\7.1.1\\fastendpoints.messaging.core.7.1.1.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

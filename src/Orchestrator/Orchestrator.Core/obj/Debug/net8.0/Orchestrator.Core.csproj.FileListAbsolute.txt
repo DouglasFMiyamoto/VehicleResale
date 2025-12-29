@@ -1,0 +1,11 @@
+C:\Pos\revenda\src\Orchestrator\Orchestrator.Core\bin\Debug\net8.0\Orchestrator.Core.deps.json
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\bin\Debug\net8.0\Orchestrator.Core.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\bin\Debug\net8.0\Orchestrator.Core.pdb
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.AssemblyInfoInputs.cache
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.AssemblyInfo.cs
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.csproj.CoreCompileInputs.cache
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\refint\Orchestrator.Core.dll
+C:\pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\Orchestrator.Core.pdb
+C:\Pos\revenda\src\Orchestrator\Orchestrator.Core\obj\Debug\net8.0\ref\Orchestrator.Core.dll

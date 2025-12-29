@@ -1,0 +1,11 @@
+C:\pos\revenda\src\PaymentService\PaymentService.Core\bin\Debug\net8.0\PaymentService.Core.deps.json
+C:\pos\revenda\src\PaymentService\PaymentService.Core\bin\Debug\net8.0\PaymentService.Core.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Core\bin\Debug\net8.0\PaymentService.Core.pdb
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.AssemblyInfoInputs.cache
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.AssemblyInfo.cs
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.csproj.CoreCompileInputs.cache
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\refint\PaymentService.Core.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\PaymentService.Core.pdb
+C:\pos\revenda\src\PaymentService\PaymentService.Core\obj\Debug\net8.0\ref\PaymentService.Core.dll

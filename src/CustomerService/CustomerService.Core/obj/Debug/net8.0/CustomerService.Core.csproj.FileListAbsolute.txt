@@ -1,0 +1,11 @@
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\bin\Debug\net8.0\CustomerService.Core.deps.json
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\bin\Debug\net8.0\CustomerService.Core.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\bin\Debug\net8.0\CustomerService.Core.pdb
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.AssemblyInfoInputs.cache
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.AssemblyInfo.cs
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\refint\CustomerService.Core.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\CustomerService.Core.pdb
+C:\Pos\revenda\src\CustomerService\CustomerService.Core\obj\Debug\net8.0\ref\CustomerService.Core.dll

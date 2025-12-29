@@ -1,0 +1,15 @@
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\bin\Debug\net8.0\CustomerService.Adapters.deps.json
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\bin\Debug\net8.0\CustomerService.Adapters.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\bin\Debug\net8.0\CustomerService.Adapters.pdb
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\bin\Debug\net8.0\CustomerService.Core.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\bin\Debug\net8.0\CustomerService.Core.pdb
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.csproj.AssemblyReference.cache
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.AssemblyInfoInputs.cache
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.AssemblyInfo.cs
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\Customer.8305AD01.Up2Date
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\refint\CustomerService.Adapters.dll
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\CustomerService.Adapters.pdb
+C:\Pos\revenda\src\CustomerService\CustomerService.Adapters\obj\Debug\net8.0\ref\CustomerService.Adapters.dll

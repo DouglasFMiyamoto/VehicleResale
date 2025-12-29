@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CustomerService.Api (.NET 8)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/src/CustomerService/CustomerService.Api/bin/Debug/net8.0/CustomerService.Api.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/CustomerService/CustomerService.Api",
+      "stopAtEntry": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      },
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AWS_REGION": "us-east-1",
+        "AWS_ENDPOINT_URL": "http://localhost:4566",
+        "AWS_ACCESS_KEY_ID": "test",
+        "AWS_SECRET_ACCESS_KEY": "test",
+        "SECURITY__USE_KMS": "false"
+      }
+    }
+  ]
+}

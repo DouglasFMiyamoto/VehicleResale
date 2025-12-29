@@ -1,0 +1,15 @@
+C:\Pos\revenda\src\PaymentService\PaymentService.Adapters\bin\Debug\net8.0\PaymentService.Adapters.deps.json
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\bin\Debug\net8.0\PaymentService.Adapters.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\bin\Debug\net8.0\PaymentService.Adapters.pdb
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\bin\Debug\net8.0\PaymentService.Core.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\bin\Debug\net8.0\PaymentService.Core.pdb
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.csproj.AssemblyReference.cache
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.AssemblyInfoInputs.cache
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.AssemblyInfo.cs
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentS.2B93030D.Up2Date
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\refint\PaymentService.Adapters.dll
+C:\pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\PaymentService.Adapters.pdb
+C:\Pos\revenda\src\PaymentService\PaymentService.Adapters\obj\Debug\net8.0\ref\PaymentService.Adapters.dll

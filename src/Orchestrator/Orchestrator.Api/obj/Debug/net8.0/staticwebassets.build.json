@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tchmgx/HbajgXQQnqYw5M5U6gOk2qF0WjRcZ7M+xAic=",
+  "Source": "Orchestrator.Api",
+  "BasePath": "_content/Orchestrator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

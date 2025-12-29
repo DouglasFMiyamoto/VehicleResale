@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uj9+iNYyJxg=",
+  "success": true,
+  "projectFilePath": "C:\\pos\\revenda\\src\\Orchestrator\\Orchestrator.Adapters\\Orchestrator.Adapters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\awssdk.core\\4.0.3.6\\awssdk.core.4.0.3.6.nupkg.sha512",
+    "C:\\Users\\Douglas Miyamoto\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.10.4\\awssdk.dynamodbv2.4.0.10.4.nupkg.sha512"
+  ],
+  "logs": []
+}

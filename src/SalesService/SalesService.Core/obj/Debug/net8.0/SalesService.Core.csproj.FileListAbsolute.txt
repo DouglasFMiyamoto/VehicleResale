@@ -1,0 +1,11 @@
+C:\pos\revenda\src\SalesService\SalesService.Core\bin\Debug\net8.0\SalesService.Core.deps.json
+C:\pos\revenda\src\SalesService\SalesService.Core\bin\Debug\net8.0\SalesService.Core.dll
+C:\pos\revenda\src\SalesService\SalesService.Core\bin\Debug\net8.0\SalesService.Core.pdb
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.AssemblyInfoInputs.cache
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.AssemblyInfo.cs
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.csproj.CoreCompileInputs.cache
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.dll
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\refint\SalesService.Core.dll
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\SalesService.Core.pdb
+C:\pos\revenda\src\SalesService\SalesService.Core\obj\Debug\net8.0\ref\SalesService.Core.dll

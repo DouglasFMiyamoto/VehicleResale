@@ -1,0 +1,15 @@
+C:\Pos\revenda\src\SalesService\SalesService.Adapters\bin\Debug\net8.0\SalesService.Adapters.deps.json
+C:\pos\revenda\src\SalesService\SalesService.Adapters\bin\Debug\net8.0\SalesService.Adapters.dll
+C:\pos\revenda\src\SalesService\SalesService.Adapters\bin\Debug\net8.0\SalesService.Adapters.pdb
+C:\pos\revenda\src\SalesService\SalesService.Adapters\bin\Debug\net8.0\SalesService.Core.dll
+C:\pos\revenda\src\SalesService\SalesService.Adapters\bin\Debug\net8.0\SalesService.Core.pdb
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.csproj.AssemblyReference.cache
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.AssemblyInfoInputs.cache
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.AssemblyInfo.cs
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.csproj.CoreCompileInputs.cache
+C:\Pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesSer.AA002E47.Up2Date
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.dll
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\refint\SalesService.Adapters.dll
+C:\pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\SalesService.Adapters.pdb
+C:\Pos\revenda\src\SalesService\SalesService.Adapters\obj\Debug\net8.0\ref\SalesService.Adapters.dll

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="4.0.10.4" />
+    <PackageReference Include="FastEndpoints" Version="7.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerService.Core\CustomerService.Core.csproj" />
+    <ProjectReference Include="..\CustomerService.Adapters\CustomerService.Adapters.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,106 @@
+services:
+  localstack:
+    image: localstack/localstack:latest
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=dynamodb
+      - DEFAULT_REGION=${AWS_REGION}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:4566/_localstack/health').read(); print('ok')"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+
+  customer-api:
+    build:
+      context: ./src/CustomerService
+      dockerfile: CustomerService.Api/Dockerfile
+    ports:
+      - "7001:8080"
+    env_file:
+      - .env.docker
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - DP_KEYS_PATH=/keys
+      - SECURITY__ENC_KEY_BASE64=Cyse+Ntzdv2Nfi/4SZgRpPTACr3JIFcVw1j8OEah3sA=
+    volumes:
+      - ./.dpkeys/customer:/keys
+    depends_on:
+      localstack:
+        condition: service_healthy
+
+  inventory-api:
+    build:
+      context: ./src/InventoryService
+      dockerfile: InventoryService.Api/Dockerfile
+    ports:
+      - "7002:8080"
+    env_file:
+      - .env.docker
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - AWS_REGION=us-east-1
+      - AWS_ENDPOINT_URL=http://localstack:4566
+      - DYNAMODB__VEHICLES_TABLE=Vehicles
+      - DYNAMODB__RESERVATIONS_TABLE=Reservations
+      - RESERVATION__TTL_MINUTES=30
+    depends_on:
+      localstack:
+        condition: service_healthy
+
+  sales-api:
+    build:
+      context: ./src/SalesService
+      dockerfile: SalesService.Api/Dockerfile
+    ports:
+      - "7003:8080"
+    env_file:
+      - .env.docker
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+    depends_on:
+      localstack:
+        condition: service_healthy
+
+  payment-api:
+    build:
+      context: ./src/PaymentService
+      dockerfile: PaymentService.Api/Dockerfile
+    ports:
+      - "7004:8080"
+    env_file:
+      - .env.docker
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+    depends_on:
+      localstack:
+        condition: service_healthy
+
+  orchestrator-api:
+    build:
+      context: ./src/Orchestrator
+      dockerfile: Orchestrator.Api/Dockerfile
+    ports:
+      - "7000:8080"
+    env_file:
+      - .env.docker
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+
+      # URLs internas (Docker network)
+      - CUSTOMER_BASE_URL=http://customer-api:8080
+      - INVENTORY_BASE_URL=http://inventory-api:8080
+      - SALES_BASE_URL=http://sales-api:8080
+      - PAYMENT_BASE_URL=http://payment-api:8080
+    depends_on:
+      localstack:
+        condition: service_healthy
+      customer-api:
+        condition: service_started
+      inventory-api:
+        condition: service_started
+      sales-api:
+        condition: service_started
+      payment-api:
+        condition: service_started

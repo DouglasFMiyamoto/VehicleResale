@@ -1,0 +1,11 @@
+C:\Pos\revenda\src\InventoryService\InventoryService.Core\bin\Debug\net8.0\InventoryService.Core.deps.json
+C:\pos\revenda\src\InventoryService\InventoryService.Core\bin\Debug\net8.0\InventoryService.Core.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Core\bin\Debug\net8.0\InventoryService.Core.pdb
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.AssemblyInfoInputs.cache
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.AssemblyInfo.cs
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.csproj.CoreCompileInputs.cache
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\refint\InventoryService.Core.dll
+C:\pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\InventoryService.Core.pdb
+C:\Pos\revenda\src\InventoryService\InventoryService.Core\obj\Debug\net8.0\ref\InventoryService.Core.dll
